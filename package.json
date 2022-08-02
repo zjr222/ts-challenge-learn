@@ -1,0 +1,23 @@
+{
+  "name": "type-challenge",
+  "version": "1.0.0",
+  "description": "type-challenge-learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjr222/ts-challenge-learn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zjr222/ts-challenge-learn/issues"
+  },
+  "homepage": "https://github.com/zjr222/ts-challenge-learn#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
