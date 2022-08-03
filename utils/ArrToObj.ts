@@ -3,4 +3,5 @@ export type ArrToObj<T> = T extends T
     ? { [K in Key & string]: Val }
     : never
     : never;
+
 type cases = ArrToObj<["name", string]>;
